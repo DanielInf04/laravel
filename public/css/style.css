@@ -1,0 +1,5 @@
+.hover-text-white:hover {
+    color: white !important;
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
